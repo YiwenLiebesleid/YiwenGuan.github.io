@@ -102,13 +102,13 @@ h3 {
   font-weight: normal;
 }
 .highlight {
-  background-color: #ffffff;
+  background-color: #a59aca33;
 }
 .hlight {
-  background-color: #e8f8e8;
+  background-color: #757cbb4d;
 }
 .hl {
-  background-color: rgba(30, 30, 30, 0.8);
+  background-color: #101e4acc;
 }
 .bars {
     column-count: 1;

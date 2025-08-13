@@ -11,17 +11,10 @@ ninja.data = [{
     },
   },{id: "nav-about",
           title: "about",
-          description: "I am a first-year Ph.D. student in Computer Science at Worcester Polytechnic Institute (WPI) advised by Dr. Jacob Whitehill. My research interests include machine learning, deep learning, and their applications.",
+          description: "Biography",
           section: "Navigation",
           handler: () => {
             window.location.href = "/YiwenGuan.github.io/";
-          },
-        },{id: "nav-blog",
-          title: "blog",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/YiwenGuan.github.io/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
@@ -30,70 +23,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/YiwenGuan.github.io/publications/";
           },
-        },{id: "nav-research",
-          title: "Research",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/YiwenGuan.github.io/research/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/YiwenGuan.github.io/projects/";
-          },
-        },{id: "nav-work-experience",
-          title: "Work Experience",
+        },{id: "nav-research-amp-work-experience",
+          title: "Research &amp; Work Experience",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/YiwenGuan.github.io/work/";
           },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/YiwenGuan.github.io/repositories/";
-          },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/YiwenGuan.github.io/cv/";
-          },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/YiwenGuan.github.io/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/YiwenGuan.github.io/people/";
-          },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/YiwenGuan.github.io/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/YiwenGuan.github.io/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         

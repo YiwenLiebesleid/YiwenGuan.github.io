@@ -3,14 +3,14 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-home",
+    title: "Home",
     section: "Navigation",
     handler: () => {
       window.location.href = "/YiwenGuan.github.io/";
     },
-  },{id: "nav-about",
-          title: "about",
+  },{id: "nav-home",
+          title: "Home",
           description: "Biography",
           section: "Navigation",
           handler: () => {

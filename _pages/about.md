@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Home
+title: Yiwen Guan
 permalink: /
 description: >
-  Biography
+  Ph.D. candidate in Computer Science
+  Worcester Polytechnic Institute
 nav: false  # set to false to avoid duplicate Home link (header.liquid already injects the root page link)
 nav_order: 1
 ---

@@ -1,10 +1,15 @@
 ---
 layout: page
-title: Work Experience
+title: Research & Work Experience
 permalink: /work/
 nav: true
 nav_order: 3
 ---
+
+### Research Assistant (WPI)
+*(iSAT, Aug 2023-present)*
+- Working on speech-related machine learning tasks such as ASR. Performed uncertainty-based active learning methods and pseudo-labeling methods to figure out a more efficient approach for finetuning ASR models.
+
 
 ### Machine learning engineer in Kuaishou Technology Company (Beijing)
 *(In user profiling group, Jul 2021-Nov 2022)*

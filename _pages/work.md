@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 ### Work Experiences
-#### Machine learning engineer in Kuaishou Technology (Beijing)
+#### Machine learning engineer at Kuaishou Technology (Beijing)
 *(Kuaishou user profiling group, Jul 2021-Nov 2022)*
 - Led the user profession project, and developed the first user profession labeling system in Kuaishou by building a weakly supervised framework for strategy mining. Designed an multi-task learning model with Multi-gate Mixture-of-Experts (MMoE) structure and optimized the performance with transfer learning ideas.
 - Participated in mining the "recruit intent" crowd for Kuaishou live-stream recruiting project, and analysis MRR, posterior recall, and also business metrics in ABtest.

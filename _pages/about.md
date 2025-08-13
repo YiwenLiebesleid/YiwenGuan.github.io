@@ -4,7 +4,7 @@ title: Home
 permalink: /
 description: >
   Biography
-nav: true
+nav: false  # set to false to avoid duplicate Home link (header.liquid already injects the root page link)
 nav_order: 1
 ---
 

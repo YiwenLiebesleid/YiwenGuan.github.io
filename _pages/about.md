@@ -2,22 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+description: >
+  I am a first-year Ph.D. student in Computer Science at Worcester Polytechnic Institute (WPI) advised by Dr. Jacob Whitehill. My research interests include machine learning, deep learning, and their applications.
+nav: true
+nav_order: 1
+---
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+I worked as a machine learning engineer at Kuaishou Technology Company (Beijing) in the group of user profiling from Jul 2021 to Nov 2022. During my time in Kuaishou, I was in charge of the user profession project and live-stream recruiting project.
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
+Before joining Kuaishou, I received my Master of Science in Computer Science degree from WPI in 2021, and was accepted as a member of Upsilon Pi Epsilon (UPE). Before that, I received my bachelor degree from University of Science and Technology of China (USTC) in 2019, majoring in Computer Science and Technology.
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 

@@ -3,8 +3,7 @@ layout: about
 title: Yiwen Guan
 permalink: /
 description: >
-  Ph.D. candidate in Computer Science
-
+  Ph.D. candidate in Computer Science at 
   Worcester Polytechnic Institute
 nav: false  # set to false to avoid duplicate Home link (header.liquid already injects the root page link)
 nav_order: 1

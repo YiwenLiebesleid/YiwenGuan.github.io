@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/YiwenGuan.github.io/work/";
           },
+        },{id: "nav-misc",
+          title: "Misc",
+          description: "Other information about me",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/YiwenGuan.github.io/misc/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",

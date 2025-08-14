@@ -29,3 +29,11 @@ Before joining Kuaishou, I received my Master of Science in Computer Science deg
   <li><span class="time">2019 – 2021</span><span class="event">M.S. in Computer Science, Worcester Polytechnic Institute (MA, USA)</span></li>
   <li><span class="time">2015 – 2019</span><span class="event">B.E. in Computer Science & Technology, University of Science and Technology of China (Anhui, China)</span></li>
 </ul>
+
+---
+
+#### Contact
+<ul>
+  <li><span class="time">Email</span><span class="event">yguan2[AT]wpi[DOT]edu</span></li>
+  <li><span class="time">Address</span><span class="event">Unity Hall 320, WPI</span></li>
+</ul>

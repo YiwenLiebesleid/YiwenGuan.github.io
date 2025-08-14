@@ -24,6 +24,8 @@ Before joining Kuaishou, I received my Master of Science in Computer Science deg
 ---
 
 #### Education
-- Worcester Polytechnic Institute, Ph.D. in Computer Science *(2023 - present, MA, US)*
-- Worcester Polytechnic Institute, M.S. in Computer Science *(2019 - 2021, MA, US)*
-- University of Science and Technology of China, B.E. in Computer Science and Technology *(2015 - 2019, Anhui, China)*
+<ul class="timeline">
+  <li><span class="time">2023 – present</span><span class="event">Ph.D. in Computer Science, Worcester Polytechnic Institute (MA, USA)</span></li>
+  <li><span class="time">2019 – 2021</span><span class="event">M.S. in Computer Science, Worcester Polytechnic Institute (MA, USA)</span></li>
+  <li><span class="time">2015 – 2019</span><span class="event">B.E. in Computer Science & Technology, University of Science and Technology of China (Anhui, China)</span></li>
+</ul>

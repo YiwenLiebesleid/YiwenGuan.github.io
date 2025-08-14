@@ -1,0 +1,8 @@
+// Timeline utility classes
+.timeline { list-style: none; margin: 0 0 1.2rem 0; padding: 0; }
+.timeline li { display: flex; align-items: flex-start; gap: 12px; margin-bottom: 4px; }
+.timeline .time { width: 140px; font-weight: 600; flex-shrink: 0; }
+.timeline .event { flex: 1; }
+.timeline .event p { margin: 0 0 4px; }
+.timeline.compact li { margin-bottom: 2px; }
+.timeline.narrow .time { width: 110px; }

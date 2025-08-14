@@ -9,10 +9,13 @@ nav_order: 4
 
 
 ### Honors and Awards
-- Member of Upsilon Pi Epsilon (UPE) *(WPI, 2021 -)*
-- Excellent student bronze award *(USTC, 2017)*
-- Endeavour student award *(USTC, 2017)*
-- 3rd class CGNPC scholarship *(USTC, 2016)*
+
+<ul class="timeline">
+  <li><span class="time">2021 –</span><span class="event">Member of Upsilon Pi Epsilon, WPI</span></li>
+  <li><span class="time">2017</span><span class="event">Excellent student bronze award, USTC</span></li>
+  <li><span class="time">2017</span><span class="event">Endeavour student award, USTC</span></li>
+  <li><span class="time">2016</span><span class="event">3rd class CGNPC scholarship, USTC</span></li>
+</ul>
 
 ---
 

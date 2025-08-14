@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 #### Work Experiences
-**Machine learning engineer at Kuaishou Technology (Beijing)**
+**Machine learning engineer at Kuaishou Technology (full-time)**
 
 (Kuaishou user profiling group, Jul 2021-Nov 2022)
 
@@ -25,3 +25,4 @@ nav_order: 3
 
 #### Professional Activities
 - Reviewer of IEEE International Conference on Multimedia & Expo (ICME) (2025 -)
+- Oral presentation, ICME'25 (Jul 2025)

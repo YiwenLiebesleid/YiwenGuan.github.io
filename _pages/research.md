@@ -8,7 +8,7 @@ nav_order: 2
 
 
 #### Research Assistant
-*(WPI, Aug 2023-present)*
+(WPI, Aug 2023-present)
 - Real-time active speaker detection (ASD) using multi-modal input streams.
 - Feedback-driven HCI speech processing system for real-time speech recognition and speaker diarization, utlizing Large Language Models (LLMs) for transcription and speaker correction.
 - Investigation of the impact of each modality on multi-modal speech recognition in various conditions, such as auditory noise levels, raw/abstract visual inputs.
@@ -18,5 +18,5 @@ nav_order: 2
 ---
 
 #### Undergraduate Student Researcher
-*(USTC, Anhui Province Key Laboratory of Big Data Analysis and Application, Oct 2018 - May 2019)*
+(USTC, Anhui Province Key Laboratory of Big Data Analysis and Application, Oct 2018 - May 2019)
 - Image processing and image recognition for plant disease with a tree-structured CNN model.

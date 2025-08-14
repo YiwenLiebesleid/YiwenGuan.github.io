@@ -23,5 +23,5 @@ nav_order: 4
     + Songs: I listen to C-pop and K-pop the most, and also instrumental music / classical music.
 - Painting : I've learned watercolor painting and a little oil painting.
 - Baking : I like to bake cupcakes and small snacks for my family.
-- Games: LOL Esports 10-year old fan (doge), ARAM player.
+- Game: LOL Esports 10-year old fan, ARAM player.
 - Traveling : I enjoy traveling and visiting different cultures (and learning languages, tasting foods, etc). I've been to Antarctica and survived the polar plunge! Currenlty I have visited 5 continents, and am continuing my journey around the world ...

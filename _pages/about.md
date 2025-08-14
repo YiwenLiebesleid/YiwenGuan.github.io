@@ -33,7 +33,5 @@ Before joining Kuaishou, I received my Master of Science in Computer Science deg
 ---
 
 #### Contact
-<ul>
-  <li><span class="time">Email</span><span class="event">yguan2[AT]wpi[DOT]edu</span></li>
-  <li><span class="time">Address</span><span class="event">Unity Hall 320, WPI</span></li>
-</ul>
+Email: yguan2[AT]wpi[DOT]edu
+Address: Unity Hall 320, WPI

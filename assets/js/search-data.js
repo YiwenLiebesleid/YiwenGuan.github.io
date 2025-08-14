@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-misc",
           title: "Misc",
-          description: "Other information about me",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/YiwenGuan.github.io/misc/";

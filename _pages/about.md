@@ -9,7 +9,7 @@ nav: false  # set to false to avoid duplicate Home link (header.liquid already i
 nav_order: 1
 profile:
   align: right          # left | right
-  image: avatar.jpg     # 对应 assets/img/avatar.jpg
+  image: avatar.JPG    # 对应 assets/img/avatar.jpg
   image_circular: true  # 是否圆形
 ---
 

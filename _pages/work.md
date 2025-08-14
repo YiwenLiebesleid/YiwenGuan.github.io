@@ -25,4 +25,4 @@ nav_order: 3
 
 #### Professional Activities
 - Reviewer of IEEE International Conference on Multimedia & Expo (ICME) (2025 -)
-- Oral presentation, ICME'25 (Jul 2025)
+- Oral presentation, ICME'25 (Nantes, Jul 2025)

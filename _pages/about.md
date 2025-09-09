@@ -2,16 +2,18 @@
 layout: about
 title: Yiwen Guan
 permalink: /
-description: >
-  Ph.D. candidate in Computer Science at 
-  Worcester Polytechnic Institute
-nav: false  # set to false to avoid duplicate Home link (header.liquid already injects the root page link)
-nav_order: 1
-social: true
+subtitle: Ph.D. candidate in Computer Science at Worcester Polytechnic Institute
+
 profile:
   align: right          # left | right
   image: avatar.JPG    # 对应 assets/img/avatar.jpg
   image_circular: true  # 是否圆形
+
+# nav: false  # set to false to avoid duplicate Home link (header.liquid already injects the root page link)
+nav_order: 1
+social: true
+
+---
 
 #### Bio
 
@@ -30,10 +32,3 @@ Before joining Kuaishou, I received my Master of Science in Computer Science deg
   <li><span class="time">2015 – 2019</span><span class="event">B.E. in Computer Science & Technology, University of Science and Technology of China (Anhui, China)</span></li>
 </ul>
 
----
-
-#### Contact
-<ul>
-  <li><span class="time">Email</span><span class="event">yguan2[AT]wpi[DOT]edu</span></li>
-  <li><span class="time">Address</span><span class="event">Unity Hall 320, WPI</span></li>
-</ul>

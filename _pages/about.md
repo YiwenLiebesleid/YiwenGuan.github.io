@@ -7,11 +7,11 @@ description: >
   Worcester Polytechnic Institute
 nav: false  # set to false to avoid duplicate Home link (header.liquid already injects the root page link)
 nav_order: 1
+social: true
 profile:
   align: right          # left | right
   image: avatar.JPG    # 对应 assets/img/avatar.jpg
   image_circular: true  # 是否圆形
----
 
 #### Bio
 

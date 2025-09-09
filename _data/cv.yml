@@ -27,7 +27,7 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: WPI (Advisor: Dr. Jacob Whitehill)
+      institution: "WPI (Advisor: Dr. Jacob Whitehill)"
       year: 2023 - Present
       description:
         - Efficient speech translation / machine translation system with encoder-only tree architecture.

@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/YiwenGuan.github.io/work/";
           },
+        },{id: "nav-cv",
+          title: "CV",
+          description: "Curriculum Vitae of Yiwen Guan",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/YiwenGuan.github.io/cv/";
+          },
         },{id: "nav-misc",
           title: "Misc",
           description: "",
@@ -473,7 +480,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=Yd0AcwQAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',

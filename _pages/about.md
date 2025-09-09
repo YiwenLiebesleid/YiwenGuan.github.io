@@ -23,7 +23,6 @@ I worked as a machine learning engineer at [Kuaishou Technology](https://ir.kuai
 
 Before joining Kuaishou, I received my Master of Science in Computer Science degree from WPI in 2021, and was accepted as a member of Upsilon Pi Epsilon (UPE). Before that, I received my bachelor degree from University of Science and Technology of China ([USTC](http://en.ustc.edu.cn/)) in 2019, majoring in Computer Science and Technology.
 
----
 
 #### Education
 <ul class="timeline">

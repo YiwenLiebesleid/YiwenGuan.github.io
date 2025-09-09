@@ -7,7 +7,7 @@ first_name: Yiwen
 middle_name:
 last_name: Guan
 contact_note: >
-  Feel free to reach out if you have any questions.
+  Feel free to reach out!
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. student in Computer Science at Worcester Polytechnic Institute (WPI) advised by Dr. Jacob Whitehill. My research interests include machine learning, deep learning, and their applications.
 footer_text: >

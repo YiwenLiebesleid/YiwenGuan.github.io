@@ -9,6 +9,7 @@ nav_order: 2
 
 #### Research Assistant
 (WPI, Aug 2023-present)
+- Efficient speech translation / machine translation system with encoder-only tree architecture.
 - Real-time active speaker detection (ASD) using multi-modal input streams.
 - Feedback-driven HCI speech processing system for real-time speech recognition and speaker diarization, utilizing Large Language Models (LLMs) for transcription and speaker correction.
 - Investigation of the impact of each modality on multi-modal speech recognition in various conditions, such as auditory noise levels, raw/abstract visual inputs.

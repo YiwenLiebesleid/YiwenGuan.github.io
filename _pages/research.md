@@ -9,7 +9,7 @@ nav_order: 2
 
 #### Research Assistant
 (WPI, Aug 2023-present)
-- Efficient speech translation / machine translation system with non-autoregressive architectures. 
+- Efficient speech translation / machine translation system with non-autoregressive methods, such as encoder-only architecture and diffusion.
 - Feedback-driven HCI speech processing system for real-time speech recognition and speaker diarization, prompting Large Language Models (LLMs) for transcription and speaker correction.
 - Investigation of the impact of each modality on multi-modal speech recognition in various conditions, such as auditory noise levels, raw/abstract visual inputs.
 - Mix-supervised training discrete-token based decoder-only multi-modal language models for multiple tasks, such as speech recognition (ASR), speech translation (S2TT, S2ST), image caption, etc.

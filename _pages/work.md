@@ -24,5 +24,6 @@ nav_order: 3
 ---
 
 #### Professional Activities
-- Reviewer of IEEE International Conference on Multimedia & Expo (ICME) (2025 -)
+- Reviewer of Computer Vision × Education (CV4Edu) - CVPR 2026 Workshop (2026)
+- Reviewer of IEEE International Conference on Multimedia & Expo (ICME) (2025, 2026)
 - Oral presentation, ICME 2025 (Nantes, France, Jul 2025)

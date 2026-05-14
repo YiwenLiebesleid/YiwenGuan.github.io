@@ -30,6 +30,7 @@
       institution: "WPI (Advisor: Dr. Jacob Whitehill)"
       year: 2023 - Present
       description:
+        - Target-speaker automatic speech recognition. 
         - Efficient speech translation / machine translation system with encoder-only tree architecture.
         - Real-time active speaker detection (ASD) using multi-modal input streams.
         - Feedback-driven HCI speech processing system for real-time speech recognition and speaker diarization, utilizing Large Language Models (LLMs) for transcription and speaker correction.
@@ -67,6 +68,7 @@
 - title: Service
   type: list
   contents:
+    - Reviewer of Computer Vision × Education (CV4Edu) - CVPR 2026 Workshop (2026)
     - Reviewer of IEEE International Conference on Multimedia & Expo (ICME) (2025 -)
 
 - title: Honors and Awards

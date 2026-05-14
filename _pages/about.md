@@ -17,7 +17,7 @@ social: true
 
 #### Bio
 
-I am a third-year Ph.D. student in Computer Science at Worcester Polytechnic Institute ([WPI](https://www.wpi.edu/)) advised by [Dr. Jacob Whitehill](https://users.wpi.edu/~jrwhitehill/). My research centers on speech and multimodal processing, and their applications in educational scenarios.
+I am a third-year Ph.D. student in Computer Science at Worcester Polytechnic Institute ([WPI](https://www.wpi.edu/)) advised by [Dr. Jacob Whitehill](https://users.wpi.edu/~jrwhitehill/). My research centers on speech and language processing, multimodal deep learning, and their applications in education area.
 
 I worked as a machine learning engineer at [Kuaishou Technology](https://ir.kuaishou.com/) (Beijing) in the group of user profiling from Jul 2021 to Nov 2022. During my time in Kuaishou, I was in charge of the user profession project and live-stream recruiting project.
 

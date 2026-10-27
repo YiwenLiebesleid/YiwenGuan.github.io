@@ -17,13 +17,17 @@ nav_order: 3
 
 ---
 
-#### Teaching Experiences
-- Mentor of iSAT High School Internship Program (WPI, Jan 2025 - Apr 2025)
-- Teaching Assistant of Computer Programming Languages in C (USTC, Aug 2018 - Jan 2019)
+#### Professional Service
+- Journal Reviewer: 
+    + IEEE Transactions on Signal Processing (2026)
+- Conference Reviewer: 
+    + IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) (2027) 
+    + IEEE International Conference on Multimedia & Expo (ICME) (2025, 2026)
+- Workshop Reviewer: Computer Vision × Education (CV4Edu) - CVPR 2026 Workshop (2026)
+- Oral presentation: ICME 2025 (Nantes, France, Jul 2025)
 
 ---
 
-#### Professional Activities
-- Reviewer of Computer Vision × Education (CV4Edu) - CVPR 2026 Workshop (2026)
-- Reviewer of IEEE International Conference on Multimedia & Expo (ICME) (2025, 2026)
-- Oral presentation, ICME 2025 (Nantes, France, Jul 2025)
+#### Teaching Experiences
+- Mentor of iSAT High School Internship Program (WPI, Jan 2025 - Apr 2025)
+- Teaching Assistant of Computer Programming Languages in C (USTC, Aug 2018 - Jan 2019)

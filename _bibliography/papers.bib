@@ -25,19 +25,26 @@
       preview={PrismDiff.jpg},
 }
 
-@misc{guan2025transformerencodertreesefficientmultilingual,
-      title={Transformer-Encoder Trees for Efficient Multilingual Machine Translation and Speech Translation}, 
-      author={Yiwen Guan and Jacob Whitehill},
-      booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2026",
-      year={2026},
-      publisher = "Association for Computational Linguistics",
-      eprint={2509.17930},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      arxiv={2509.17930},
-      url={https://arxiv.org/abs/2509.17930}, 
+
+@inproceedings{guan-whitehill-2026-transformer,
+    title = "Transformer-Encoder Trees for Efficient Multilingual Machine Translation and Speech Translation",
+    author = "Guan, Yiwen  and
+      Whitehill, Jacob",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2026",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-emnlp.434/",
+    pages = "9115--9127",
+    ISBN = "979-8-89176-462-0",
+    abstract = "Multilingual translation suffers from computational redundancy, especially when translating into multiple languages simultaneously. In addition, translation quality can suffer for low-resource languages. To address this, we introduce Transformer Encoder Tree (TET), a hierarchical, non-autoregressive encoder-only architecture trained with Connectionist Temporal Classification (CTC) for multilingual translation. TET shares intermediate representations among linguistically similar target languages, improving accuracy on low-resource languages while reducing computational redundancy and enabling the generation of all target languages in a single forward pass. TET eliminates the sequential bottleneck of autoregressive models and supports fully parallel decoding of all tokens across all target languages. Compared to a naive one-to-many multilingual design, TET reduces the total parameter count by 66{\%} and lowers inference computation by 60{\%}. In speech translation, combining TET with a non-autoregressive speech recognition backbone (Wav2Vec2) shows competitive translation quality compared to autoregressive systems while speeding up inference by approximately 7-14 $\times$.",
+      abbr         = {EMNLP Findings}, 
       preview={TET.png},
-      abbr         = {EMNLP Findings}
 }
 
 @misc{he2025interactiverealtimespeakerdiarization,
